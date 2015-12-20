@@ -1,0 +1,80 @@
+
+Tutorials
+Get started on Hadoop with these tutorials based on the Hortonworks Sandbox
+
+    Developers Administrators Data Scientists & Analysts Partner Tutorials 
+
+Hadoop for Data Scientists & Analysts
+
+Get Started with data analysis on Hadoop. These tutorials are designed to help you make the most of data with Hadoop:
+Introduction to Data Analysis with Hadoop
+Faster Pig with Tez
+What is Pig? Pig is a high level scripting language that is used with Apache Hadoop. Pig excels at describing data analysis problems as data flows....
+How to Process Data with Apache Hive
+This Hadoop tutorial shows how to Process Data with Hive using a set of Baseball statistics on American players from 1871-2011.
+How To Process Data with Apache Pig
+This Hadoop tutorial shows how to Process Data with Apache Pig using a set of Baseball statistics on American players from 1871-2011.
+Interacting with Data on HDP using Apache Zeppelin and Apache Spark
+In this section we are going to walk through the process of using Apache Zeppelin and Apache Spark to interactively analyze data on a Apache Hadoop...
+Interactive Query for Hadoop with Apache Hive on Apache Tez
+How to use Apache Tez and Apache Hive for Interactive Query with Hadoop and Hortonworks Data Platform 2.1
+How to Install and Configure the Hortonworks ODBC driver on Mac OS X
+This Hadoop tutorial describes how to install and configure the Hortonworks ODBC driver on Mac OS X. After you install and configure the ODBC driver, you will be able to access Hortonworks sandbox data using Excel
+How to Install and Configure the Hortonworks ODBC driver on Windows 7
+This tutorial walks you through how to install and configure the Hortonworks ODBC driver on Windows 7.
+Using Hive for Data Analysis
+Overview Hive is designed to enable easy data summarization and ad-hoc analysis of large volumes of data. It uses a query language called Hive-QL...
+Beginners guide to Apache Pig
+This Hadoop tutorial will enable you to gain a working knowledge of Pig and hands-on experience creating Pig scripts to carry out essential data operations and tasks.
+Word Counting with Apache Pig
+This tutorial describes how to use Pig with the Hortonworks Sandbox to do a word count of an imported text file.
+How to Use HCatalog, Pig & Hive Commands
+This Hadoop tutorial shows how to use HCatalog, Pig and Hive to load and process data using a baseball statistics file. This file has all the statistics for each American player by year from 1871-2011
+How to Use Excel 2013 to Access Hadoop Data
+In this tutorial, you will learn how to use a Microsoft Query in Microsoft Excel 2013 to access sandbox data.
+Microsoft
+How to Use Excel 2013 to Analyze Hadoop Data
+In this tutorial, you will use a Microsoft Query in Microsoft Excel 2013 to access sandbox data, and then analyze the data using the Excel Power View feature.
+Microsoft
+Deriving Business Insight from Data using Microsoft Excel and Hortonworks Data Platform
+Learn how to visualize data using Microsoft BI and HDP with 10 years of raw stock ticker data from NYSE.
+Microsoft
+Data Integration with Talend
+In this tutorial, you'll learn how to connect the Sandbox to Talend to quickly build test data for your Hadoop environment.
+Talend
+Import from Microsoft SQL Server into the Hortonworks Sandbox using Sqoop
+This tutorial will show you how to use Sqoop to import data into the Hortonworks Sandbox from a Microsoft SQL Server data source.
+Using Revolution R Enterprise with Hortonworks Sandbox
+In this tutorial the user will be introduced to Revolution R Enterprise and how it works with the Hortonworks Sandbox. A data file will be extracted from the Sandbox using ODBC and then analyzed using R functions inside Revolution R Enterprise.
+Revolution Analytics
+Business Discovery and Visualizing Your Data in HDP Using QlikView
+Introduction Welcome to the QlikView (Business Discovery Tools) tutorial developed by Qlik?. The tutorial is designed to help you get connected...
+Qlik
+Real World Examples
+Visualize Website Clickstream Data
+How do you improve the chances that your online customers will complete a purchase? Hadoop makes it easier to analyze and then change how visitors behave on your website. Here you can see how an online retailer optimized buying paths to reduce bounce rates and improve conversions. HDP can help you capture and refine website clickstream data to exceed your companys e-commerce goals. The tutorial that comes with this video describes how to refine raw clickstream data using HDP.
+How to Refine and Visualize Server Log Data
+Security breaches happen. And when they do, server log analysis helps you identify the threat and then protect yourself better in the future. See how Hadoop takes server-log analysis to the next level by speeding forensics, retaining log data for longer and demonstrating compliance with IT policies. The tutorial that comes with this video describes how to refine raw server log data using HDP.
+Analyzing Social Media and Customer Sentiment
+With Hadoop, you can mine Twitter, Facebook and other social media conversations to analyze customer sentiment about you and your competition. With more social Big Data, you can make more targeted, real-time, decisions. The tutorial that comes with this video describes how to refine raw Twitter data using HDP.
+Tracking Assest with Geo-location Data
+Geolocation data is plentiful, and thats part of the challenge. The costs to store and process voluminous amounts of geo-location data often outweigh the benefits. Hadoop helps reduce those storage costs, allowing you to derive location-based of intelligence on where there field assets are and how they move about. This demo analyzes geo-location data on long-haul trucks to reduce fuel costs and improve driver safety. The tutorial that comes with this video describes how to refine geo-location data using HDP.
+How To Analyze Machine and Sensor Data
+Machines know things. Sensors stream low-cost, always-on data. Hadoop makes it easier for you to store and refine that data and identify meaningful patterns, providing you with the insight to make proactive business decisions using predictive analytics. See how Hadoop can be used to analyze heating, ventilation and air conditioning data to maintain ideal office temperatures and minimize expenses
+Natural Language Processing and Sentiment Analysis for Retailers using HDP and ITC Infotech Radar
+RADAR is a software solution for retailers built using ITC Handy tools (NLP and Sentiment Analysis engine) and utilizing Hadoop technologies in ...
+ITC Infotech
+Predictive Analytics on H2O and Hortonworks Data Platform
+Introduction H2O is the open source in memory solution from 0xdata for predictive analytics on big data. It is a math and machine learning engine...
+H2O
+Using RHadoop to predict website visitors
+This tutorial describes how to use RHadoop on Hortonworks Data Platform, how to facilitate using R on Hadoop to create powerful analytics platform.
+Using Spring XD to stream Tweets to Hadoop for Sentiment Analysis
+This tutorial will show you how to use Spring XD to ingest tweets to HDFS. Once in HDFS, well use Apache Hive to process and analyze them, before visualizing in a tool.
+From our partners
+Using JReport to visualize data on Hortonworks Data Platform
+Introduction JReport is a embedded BI reporting tool can easily extract and visualize data from the Hortonworks Data Platform 2.3 using the Apache...
+Jinfonet Software
+Getting started with Pivotal HAWQ on Hortonworks Sandbox
+Pivotal HAWQ provides strong support for low-latency analytic SQL queries, coupled with massively parallel machine learning capabilities...
+Pivotal
