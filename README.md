@@ -18,6 +18,7 @@ share (file://K204A-1-1/Users/user/Desktop/share)
 ##### clone source code
 
 `cd ~`
+
 `$ git clone https://github.com/takeshimiao/workshop-materials.git`
 
 ##### cd to working dir
