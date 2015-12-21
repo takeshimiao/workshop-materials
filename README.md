@@ -30,3 +30,13 @@ share (file://K204A-1-1/Users/user/Desktop/share)
 `$ mvn compile`
 
 `$ mvn test`
+
+If you see BUILD FAILURE at `mvn test`
+
+`$ jps`
+
+find `HMaster`'s pid
+
+`$ kill -9 [pid]`
+
+run `mvn test` again
